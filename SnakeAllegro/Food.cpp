@@ -7,11 +7,13 @@ using namespace std;
 Food::Food()
 {
 	posX = posY = 250;
+ 
 }
 Food::Food(int X, int Y)
 {
 	posX = X;
 	posY = Y;
+ 
 }
 
 int Food::getX()
@@ -35,24 +37,4 @@ void Food::updatePosition(int X, int Y)
 {
 	this->posX = X;
 	this->posY = Y;
-}
-void Food::moveDown()
-{
-	this->posY++;
-}
-void Food::moveUp()
-{
-	this->posY--;
-}
-void Food::moveLeft()
-{
-	this->posX--;
-}
-void Food::moveRight()
-{
-	this->posX++;
-}
-void Food::displayCordinates()
-{
-	cout << "X -> " << posX << ", Y -> " << posY << endl;
 }
