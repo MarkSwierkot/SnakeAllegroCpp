@@ -11,8 +11,9 @@ Food::Food()
 }
 Food::Food(int X, int Y)
 {
-	posX = X;
-	posY = Y;
+	this->posX = X;
+	this->posY = Y;
+	
  
 }
 
@@ -32,7 +33,7 @@ void Food::setY(int Y)
 {
 	posY = Y;
 }
-
+ 
 void Food::updatePosition(int X, int Y)
 {
 	this->posX = X;
