@@ -1,5 +1,5 @@
 ﻿  SnakeAllegro.cpp
-c:\users\marekswierkot\source\repos\snakeallegro\snakeallegro\snakeallegro.cpp(108): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
-c:\users\marekswierkot\source\repos\snakeallegro\snakeallegro\snakeallegro.cpp(270): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
-c:\users\marekswierkot\source\repos\snakeallegro\snakeallegro\snakeallegro.cpp(49): warning C4172: zwracanie adresu lokalnej zmiennej lub tymczasowej: position
+c:\users\marekswierkot\source\repos\snakeallegro\snakeallegro\snakeallegro.cpp(111): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\marekswierkot\source\repos\snakeallegro\snakeallegro\snakeallegro.cpp(331): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\marekswierkot\source\repos\snakeallegro\snakeallegro\snakeallegro.cpp(50): warning C4172: zwracanie adresu lokalnej zmiennej lub tymczasowej: position
   SnakeAllegro.vcxproj -> C:\Users\MarekSwierkot\source\repos\SnakeAllegro\Debug\SnakeAllegro.exe
