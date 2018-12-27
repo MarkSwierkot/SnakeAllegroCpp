@@ -52,7 +52,4 @@ void Snake::moveRight()
 {
 	this->posX++;
 }
-void Snake::displayCordinates()
-{
-	cout << "X -> " << posX << ", Y -> " << posY << endl;
-}
+ 

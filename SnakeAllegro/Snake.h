@@ -21,5 +21,5 @@ public:
 	void moveDown();
 	void moveLeft();
 	void moveRight();
-	void displayCordinates(); // Function is not used in working program, it is just for debugging
+	 
 };

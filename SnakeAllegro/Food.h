@@ -10,10 +10,7 @@ private:
 	int type;
 
 
-	// 1 - REGULAR - lengthen snake, adds points to score counter
-	// 2 - PACE	   - either speeds up or slows game pace
-	// 3 - SPECIAL - for a short period of time, makes walls dissapear and enables it for user to walk through them
-
+ 
 public:
  
 	Food(); 
